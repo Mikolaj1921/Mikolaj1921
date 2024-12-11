@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a student and a web developer specializing in building<br>applications and websites. I'm currently in my third year of<br>studying Computer Science, where I deepen my knowledge<br>of programming and new technologies. I use technologies like React,<br>Tailwind CSS, and Node.js in my work, focusing on creating <br>responsive interfaces and efficient web application handling.<br>I'm passionate about developing my skills in programming and <br>continuously improving my ability to create modern, dynamic solutions.
 
 
