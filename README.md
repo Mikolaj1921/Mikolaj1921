@@ -27,14 +27,9 @@ Programming is my passion – I focus on building interactive, functional, and e
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mikolaj1921&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mikolaj1921&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikolaj1921&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mikolaj1921&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikolaj1921&theme=dark&show_icons=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikolaj1921&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
