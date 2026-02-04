@@ -26,8 +26,6 @@ Programming is my passion – I focus on building interactive, functional, and e
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikolaj1921&theme=dark&show_icons=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikolaj1921&icon=2&color=0)](https://visitcount.itsvg.in)
