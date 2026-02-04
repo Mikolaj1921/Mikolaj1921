@@ -7,6 +7,7 @@ Some of my notable projects include:
 
 Programming is my passion – I focus on building interactive, functional, and efficient web solutions.
 
+⚠️ Most of my repositories are private. For more information or access, please contact me directly.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melnikmikolai) 
