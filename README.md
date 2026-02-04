@@ -4,6 +4,7 @@ Some of my notable projects include:
 - AoBP – mobile app for automating documents and invoices (React Native, Android).
 - Web application for a consulting company – platform for managing clients and documents (React.js, Next.js, Node.js, PostgreSQL).
 - Portfolio and demo sites available on my GitHub.
+
 Programming is my passion – I focus on building interactive, functional, and efficient web solutions.
 
 
