@@ -1,5 +1,5 @@
 # About Me:
-I am a Computer Science Engineer and web developer, with experience as a mentee on sample projects. I create modern websites and web applications using React.js, Next.js, Tailwind CSS, Node.js, Express.js, and PostgreSQL.
+I am a Computer Science Engineer and web developer, with experience as a mentee on sample (non-commercial) projects. I create modern websites and web applications using React.js, Next.js, Tailwind CSS, Node.js, Express.js, and PostgreSQL.
 Some of my notable projects include:
 - AoBP – mobile app for automating documents and invoices (React Native, Android).
 - Web application for a consulting company – platform for managing clients and documents (React.js, Next.js, Node.js, PostgreSQL).
