@@ -3,11 +3,14 @@ I am a Computer Science Engineer and web developer, with experience as a mentee 
 Some of my notable projects include:
 - AoBP – mobile app for automating documents and invoices (React Native, Android).
 - Web application for a consulting company – platform for managing clients and documents (React.js, Next.js, Node.js, PostgreSQL).
+- Web application - infoNest – collaborative knowledge management platform with structured workspaces, document versioning, and cloud-based file storage (React, Node.js, Express, Prisma, PostgreSQL, Cloudflare R2).
 - Portfolio and demo sites available on my GitHub.
 
 Programming is my passion – I focus on building interactive, functional, and efficient web solutions.
 
 ⚠️ Most of my repositories are private. For more information or access, please contact me directly.
+ℹ️ GitHub activity visibility (including both public and private contributions) has been enabled starting from **21.03.2026**.  
+If you are interested in my development activity prior to this date, please feel free to contact me directly, as earlier contributions were not publicly visible.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melnikmikolai) 
