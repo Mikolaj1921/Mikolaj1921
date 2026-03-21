@@ -9,6 +9,7 @@ Some of my notable projects include:
 Programming is my passion – I focus on building interactive, functional, and efficient web solutions.
 
 ⚠️ Most of my repositories are private. For more information or access, please contact me directly.
+
 ℹ️ GitHub activity visibility (including both public and private contributions) has been enabled starting from **21.03.2026**.  
 If you are interested in my development activity prior to this date, please feel free to contact me directly, as earlier contributions were not publicly visible.
 
