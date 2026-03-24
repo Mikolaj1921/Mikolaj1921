@@ -14,7 +14,6 @@ Programming is my passion – I focus on building interactive, functional, and e
 If you are interested in my development activity prior to this date, please feel free to contact me directly, as earlier contributions were not publicly visible.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melnikmikolai) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miko%C5%82aj-melnyk-634213335/)
 
 
